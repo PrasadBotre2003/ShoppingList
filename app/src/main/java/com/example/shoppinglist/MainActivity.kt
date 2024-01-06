@@ -27,7 +27,7 @@ import com.example.shoppinglist.ui.theme.ShoppingItem
 import com.example.shoppinglist.ui.theme.ShoppingListTheme
 import com.example.shoppinglist.ui.theme.shoppingAppList
 
-//https://github.com/PrasadBotre2003/ShoppingList.git
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
